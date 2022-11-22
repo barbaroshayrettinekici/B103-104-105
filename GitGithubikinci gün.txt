@@ -1,1 +1,6 @@
 aaaaaadfghasdasdasd
+İkinci gün anladım olayı
+Önce git init
+Sonra git add .
+Sonra git status
+Ondan sonra git commit -m"v1"
